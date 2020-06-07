@@ -1,6 +1,5 @@
 
 <h1 align="center">NEXT LEVEL WEEK </h1>
-<img height="400" src="./web/src/assets/Ecoleta.png" align="right">
 <p align="center">
   <a href="https://nodejs.org/en/">
     <img src="https://img.shields.io/static/v1?label=Node&message=JS&color=blue?style=plastic&logo=Node.js" alt="NodeJS" />
@@ -44,7 +43,7 @@ Design: <a href="https://www.figma.com/file/GOKVazlAEsQwNjQguJ1hhc/Ecoleta?node-
 
 - Foi adicionado também os desafios propostos em aula, como uma <b>Notificação de Sucesso e Erro</b> durante o cadastro, criando um componente React e os dois <b>Componentes de Seleçao de Estado</b> utilizando a API do IBGE para realizar a filtragem. Isso foi feito com intuito de poder praticar o que foi aprendido durante as aulas
 
-# Este é um repositório para estudo criado para armazenar o conteúdo desenvolvido durante a Next Level Week da Rocketseat
+##### Este é um repositório para estudo criado para armazenar o conteúdo desenvolvido durante a Next Level Week da Rocketseat
 
 
 <h4 align="center">
